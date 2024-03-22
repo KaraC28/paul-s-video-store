@@ -18,7 +18,7 @@ Some key features implemented into this project are:
 ![PaulVidStore screenshot](https://github.com/KaraC28/paul-s-video-store/assets/132217926/3f715980-9b2c-4b4a-a69c-912b6457f222)
 
 ## Known Issues
-* when choosing "Find who rented a movie", the program sometimes outputs "Not found" when typing in the barcode of a
+* When choosing "Find who rented a movie", the program sometimes outputs "Not found" when typing in the barcode of a
   movie that was previously rented but not returned
 
 ## Collaborators
